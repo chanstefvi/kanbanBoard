@@ -1,0 +1,28 @@
+.nav {
+    background-color: #557B83;
+    color: white;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 35px;
+    padding: 10px 5px;
+    margin-bottom: 0px;
+}
+
+.homeButton{
+    border : 0px;
+    background-color: #557B83
+    
+
+}
+
+.profile {
+    border : 0px;
+    background-color: #557B83;
+    color : white;
+    text-shadow: 2px 2px 4px #000000;
+    display: flex;
+    flex-direction: row;
+}
